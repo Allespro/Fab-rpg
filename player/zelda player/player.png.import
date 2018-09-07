@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/player.png-b4668d7dbbeb14eb5c34d88ed3ac1f67.stex"
+
+[deps]
+
+source_file="res://player/zelda player/player.png"
+source_md5="a73c1355cb333efaee21f45ef6b01982"
+
+dest_files=[ "res://.import/player.png-b4668d7dbbeb14eb5c34d88ed3ac1f67.stex" ]
+dest_md5="db6f18c1b133e26368a98e2d5f1147cf"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=false
+svg/scale=1.0

@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/player anim.png-d482b4424033bd66beb5165c6d046524.stex"
+
+[deps]
+
+source_file="res://enemy/player anim.png"
+source_md5="6fd81ac0dc545d029b2cf6915424c99c"
+
+dest_files=[ "res://.import/player anim.png-d482b4424033bd66beb5165c6d046524.stex" ]
+dest_md5="e003b2c9b89884699c29d84e28be0f17"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=true
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0
