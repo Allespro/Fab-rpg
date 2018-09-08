@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/map.png-e82b9b01d47f4594f29b046de64de6f9.stex"
+path="res://.import/map-items.png-2b9f8ee956676d01b3931df6c49a3e1f.stex"
 
 [deps]
 
-source_file="res://images/map.png"
-source_md5="0b3e003e43e068788e3ab9fdf2d96838"
+source_file="res://images/map-items.png"
+source_md5="d2c49df51113d633d35974be3b8b499d"
 
-dest_files=[ "res://.import/map.png-e82b9b01d47f4594f29b046de64de6f9.stex" ]
-dest_md5="fdf347761d3867dffff27c24ad122b44"
+dest_files=[ "res://.import/map-items.png-2b9f8ee956676d01b3931df6c49a3e1f.stex" ]
+dest_md5="329925c7b2c4e8093d5257f4a60e6276"
 
 [params]
 

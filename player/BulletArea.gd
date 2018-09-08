@@ -29,3 +29,9 @@ func _on_BulletArea_area_entered(area):
 		remove_from_group("bullet")
 		
 	boom()
+
+
+func _on_BulletArea_body_entered(body):
+	remove_from_group("bullet")
+	
+	boom()
