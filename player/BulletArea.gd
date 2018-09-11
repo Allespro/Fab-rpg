@@ -20,6 +20,7 @@ func _process(delta):
 	else:
 		position.x += delta * 250
 		
+	
 
 func _on_BulletArea_area_entered(area):
 	var groups = area.get_groups()
@@ -32,6 +33,11 @@ func _on_BulletArea_area_entered(area):
 
 
 func _on_BulletArea_body_entered(body):
-	remove_from_group("bullet")
+	var groups = body.get_groups()
+	if(groups.has("noheavy")):
+		pass
+	else:
+		remove_from_group("bullet")
+		boom()
+		
 	
-	boom()

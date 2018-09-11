@@ -59,11 +59,11 @@ animations = [ {
 "speed": 15.0
 } ]
 
-[node name="Node2D" type="Node2D"]
+[node name="Node2D" type="Node2D" index="0"]
 
 [node name="BulletArea" type="Area2D" parent="." index="0" groups=[
-"bullet_bullet",
 "bullet",
+"bullet_bullet",
 ]]
 
 input_pickable = true
