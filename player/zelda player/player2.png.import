@@ -7,10 +7,7 @@ path="res://.import/player2.png-5d1dcedb7c5363c9bba3d79131509f3a.stex"
 [deps]
 
 source_file="res://player/zelda player/player2.png"
-source_md5="dd1a3e565248ea095d3504812bc56930"
-
 dest_files=[ "res://.import/player2.png-5d1dcedb7c5363c9bba3d79131509f3a.stex" ]
-dest_md5="e720fbbfe9d8bc7ae334174af22d709e"
 
 [params]
 

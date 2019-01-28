@@ -7,10 +7,7 @@ path="res://.import/fireball4.png-9a1cda0431cd5b27859e0bc0dc665bbc.stex"
 [deps]
 
 source_file="res://images/fireball/fireball4.png"
-source_md5="c99d3eaf59879bc6ea8b1d6b5b053615"
-
 dest_files=[ "res://.import/fireball4.png-9a1cda0431cd5b27859e0bc0dc665bbc.stex" ]
-dest_md5="d674735ee01a653756b641632b26485c"
 
 [params]
 

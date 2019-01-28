@@ -7,10 +7,7 @@ path="res://.import/log.png-391a8378aaaaa49c9c365065cd2332e6.stex"
 [deps]
 
 source_file="res://tiles/gfx/log.png"
-source_md5="ee927ec6bc22095903c31a60158a1951"
-
 dest_files=[ "res://.import/log.png-391a8378aaaaa49c9c365065cd2332e6.stex" ]
-dest_md5="6efc78bd7a46377ea88afb64206fcc95"
 
 [params]
 

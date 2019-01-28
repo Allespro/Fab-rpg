@@ -7,10 +7,7 @@ path="res://.import/amg1_rt1.png-ea08426d9b587d5fd6272284ce8c4274.stex"
 [deps]
 
 source_file="res://enemy/amg1_rt1.png"
-source_md5="76ae883507e61bef46426bdbc72811a9"
-
 dest_files=[ "res://.import/amg1_rt1.png-ea08426d9b587d5fd6272284ce8c4274.stex" ]
-dest_md5="157712c138b3e2a86cb5d24a87cf8835"
 
 [params]
 

@@ -7,10 +7,7 @@ path="res://.import/Inner.png-a758f9a0369439cdc04224c742b9db1a.stex"
 [deps]
 
 source_file="res://tiles/gfx/Inner.png"
-source_md5="79c789fe35ee398fdc93f057acab1735"
-
 dest_files=[ "res://.import/Inner.png-a758f9a0369439cdc04224c742b9db1a.stex" ]
-dest_md5="a340689dcff5e7358b5b8376b033b47b"
 
 [params]
 

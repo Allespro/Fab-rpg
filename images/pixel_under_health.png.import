@@ -7,10 +7,7 @@ path="res://.import/pixel_under_health.png-ae574cc8a2105fc95d4b5e9684a7a006.stex
 [deps]
 
 source_file="res://images/pixel_under_health.png"
-source_md5="e710bb20cb020d23304201c020cfda18"
-
 dest_files=[ "res://.import/pixel_under_health.png-ae574cc8a2105fc95d4b5e9684a7a006.stex" ]
-dest_md5="9ebee7e04aca010226299bc49cb8223b"
 
 [params]
 

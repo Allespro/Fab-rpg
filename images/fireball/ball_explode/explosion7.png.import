@@ -7,10 +7,7 @@ path="res://.import/explosion7.png-3551fe15a890c6344bdf381283c8caf2.stex"
 [deps]
 
 source_file="res://images/fireball/ball_explode/explosion7.png"
-source_md5="a9792e5974e925bd9c48a18c4c1d935c"
-
 dest_files=[ "res://.import/explosion7.png-3551fe15a890c6344bdf381283c8caf2.stex" ]
-dest_md5="c15a23ae61e257b3a9a6015131f950f9"
 
 [params]
 

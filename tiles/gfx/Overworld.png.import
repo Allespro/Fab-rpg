@@ -7,10 +7,7 @@ path="res://.import/Overworld.png-9894abdd4d249b20e3f2c9e6943d1526.stex"
 [deps]
 
 source_file="res://tiles/gfx/Overworld.png"
-source_md5="d38acfe461888720759655f49cc1c6bf"
-
 dest_files=[ "res://.import/Overworld.png-9894abdd4d249b20e3f2c9e6943d1526.stex" ]
-dest_md5="8934ca2d0c390405e635d24e3eb89156"
 
 [params]
 

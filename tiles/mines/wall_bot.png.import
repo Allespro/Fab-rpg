@@ -7,10 +7,7 @@ path="res://.import/wall_bot.png-0272b41ac7879cd21c1dbbeb5d0d97ed.stex"
 [deps]
 
 source_file="res://tiles/mines/wall_bot.png"
-source_md5="6483f24cb794d1043601d37a173afafc"
-
 dest_files=[ "res://.import/wall_bot.png-0272b41ac7879cd21c1dbbeb5d0d97ed.stex" ]
-dest_md5="5fee123a63a68c5ca7eb07c23a220ec8"
 
 [params]
 

@@ -7,10 +7,7 @@ path="res://.import/floor.png-ec99b7f3b05f9af276f2e002d8c8fbbe.stex"
 [deps]
 
 source_file="res://tiles/mines/floor.png"
-source_md5="e37c7017dbbcf5f0e8aec767d5917729"
-
 dest_files=[ "res://.import/floor.png-ec99b7f3b05f9af276f2e002d8c8fbbe.stex" ]
-dest_md5="2d17ef2d28d9c47213c70a1d718683e0"
 
 [params]
 

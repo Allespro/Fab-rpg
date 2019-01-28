@@ -7,10 +7,7 @@ path="res://.import/floor_pebbles_1.png-bcdb2deb652f1afa5841ad62bc551fed.stex"
 [deps]
 
 source_file="res://tiles/mines/floor_pebbles_1.png"
-source_md5="57825e7c128c98d600a38d942d02c638"
-
 dest_files=[ "res://.import/floor_pebbles_1.png-bcdb2deb652f1afa5841ad62bc551fed.stex" ]
-dest_md5="32388b1709af11184a8e1f15341ca0b6"
 
 [params]
 

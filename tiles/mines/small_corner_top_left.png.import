@@ -7,10 +7,7 @@ path="res://.import/small_corner_top_left.png-e1e626a82ff393ef2b27ecb36d27586f.s
 [deps]
 
 source_file="res://tiles/mines/small_corner_top_left.png"
-source_md5="26ec0aa0b6695e808ed13142d8fa156c"
-
 dest_files=[ "res://.import/small_corner_top_left.png-e1e626a82ff393ef2b27ecb36d27586f.stex" ]
-dest_md5="471fee99190ccda00af965fbdb35706d"
 
 [params]
 

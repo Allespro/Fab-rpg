@@ -7,10 +7,7 @@ path="res://.import/player_fon.png-f080733955db99758cef51ad77892735.stex"
 [deps]
 
 source_file="res://images/player_fon.png"
-source_md5="c23958f15217a3cd8f23c22627d02680"
-
 dest_files=[ "res://.import/player_fon.png-f080733955db99758cef51ad77892735.stex" ]
-dest_md5="46caad8f37c2c3cea0013e8aabcafc21"
 
 [params]
 

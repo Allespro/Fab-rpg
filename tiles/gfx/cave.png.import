@@ -7,10 +7,7 @@ path="res://.import/cave.png-1cfeddfa2110277eb5c5bc021740f949.stex"
 [deps]
 
 source_file="res://tiles/gfx/cave.png"
-source_md5="a34362ed56cf441db1bab1062a19b538"
-
 dest_files=[ "res://.import/cave.png-1cfeddfa2110277eb5c5bc021740f949.stex" ]
-dest_md5="147aa26a12b2d8fca3deb142bf3e3243"
 
 [params]
 

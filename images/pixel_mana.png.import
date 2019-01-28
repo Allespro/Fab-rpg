@@ -7,10 +7,7 @@ path="res://.import/pixel_mana.png-b04f43ecc3c5821594b61aea52c7d09c.stex"
 [deps]
 
 source_file="res://images/pixel_mana.png"
-source_md5="3eaebed2367bda08db69f6e21f1740de"
-
 dest_files=[ "res://.import/pixel_mana.png-b04f43ecc3c5821594b61aea52c7d09c.stex" ]
-dest_md5="3f7eba7e9b3b82e9c9c6c26abfd7f909"
 
 [params]
 

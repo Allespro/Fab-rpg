@@ -7,10 +7,7 @@ path="res://.import/4.png-5f32bd8230b4506987a5c473288e395c.stex"
 [deps]
 
 source_file="res://player/4.png"
-source_md5="ed675a9cc3c97b8c4fcbed404dede0dd"
-
 dest_files=[ "res://.import/4.png-5f32bd8230b4506987a5c473288e395c.stex" ]
-dest_md5="5dde16b9d0cf011f3980934d092e8321"
 
 [params]
 

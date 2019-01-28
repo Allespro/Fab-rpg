@@ -7,10 +7,7 @@ path="res://.import/player anim.png-d482b4424033bd66beb5165c6d046524.stex"
 [deps]
 
 source_file="res://enemy/player anim.png"
-source_md5="6fd81ac0dc545d029b2cf6915424c99c"
-
 dest_files=[ "res://.import/player anim.png-d482b4424033bd66beb5165c6d046524.stex" ]
-dest_md5="e003b2c9b89884699c29d84e28be0f17"
 
 [params]
 

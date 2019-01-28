@@ -7,10 +7,7 @@ path="res://.import/back8.jpg-1be9e018cc7f6bebdc20844c2a9fb08c.stex"
 [deps]
 
 source_file="res://last-guardian-sprites/back8.jpg"
-source_md5="afda56dd62ee7b4332796f215101ed43"
-
 dest_files=[ "res://.import/back8.jpg-1be9e018cc7f6bebdc20844c2a9fb08c.stex" ]
-dest_md5="0938cf6de1094f15f569ed1b2c4cd2b0"
 
 [params]
 

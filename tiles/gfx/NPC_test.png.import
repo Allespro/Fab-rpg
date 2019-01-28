@@ -7,10 +7,7 @@ path="res://.import/NPC_test.png-6a99cbb80e23125b6e8bfe9bf4ac9776.stex"
 [deps]
 
 source_file="res://tiles/gfx/NPC_test.png"
-source_md5="5fce825a103d7f9879da61083c9ed910"
-
 dest_files=[ "res://.import/NPC_test.png-6a99cbb80e23125b6e8bfe9bf4ac9776.stex" ]
-dest_md5="5d353b4a18ddbe72a4135a58bcdffdb6"
 
 [params]
 

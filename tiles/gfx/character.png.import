@@ -7,10 +7,7 @@ path="res://.import/character.png-af4e20406938e95fc4688a0b4223c3fd.stex"
 [deps]
 
 source_file="res://tiles/gfx/character.png"
-source_md5="affeec588158cecc7658e9a8081cf8d1"
-
 dest_files=[ "res://.import/character.png-af4e20406938e95fc4688a0b4223c3fd.stex" ]
-dest_md5="719736505fd5ced37761e2aa1d05ecd8"
 
 [params]
 

@@ -7,10 +7,7 @@ path="res://.import/pillar_bot_right.png-983f369e9641491e45d5e93f86e3044e.stex"
 [deps]
 
 source_file="res://tiles/mines/pillar_bot_right.png"
-source_md5="8c9f6adf32de82739d240b13a7fcea66"
-
 dest_files=[ "res://.import/pillar_bot_right.png-983f369e9641491e45d5e93f86e3044e.stex" ]
-dest_md5="6094337e81f03c53bf1c8ab81ad14445"
 
 [params]
 

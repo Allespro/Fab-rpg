@@ -7,10 +7,7 @@ path="res://.import/objects.png-b53517900cecc3f6b7ba5a1ca8bb97a5.stex"
 [deps]
 
 source_file="res://tiles/gfx/objects.png"
-source_md5="2bc24f2470f21fed989444640e413e28"
-
 dest_files=[ "res://.import/objects.png-b53517900cecc3f6b7ba5a1ca8bb97a5.stex" ]
-dest_md5="99ef936117692d73d8b7f11fc3a4abd0"
 
 [params]
 

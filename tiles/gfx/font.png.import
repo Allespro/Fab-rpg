@@ -7,10 +7,7 @@ path="res://.import/font.png-b7f488907eab9f282cd8fcf4e14c17c0.stex"
 [deps]
 
 source_file="res://tiles/gfx/font.png"
-source_md5="74ff8e5df560bffda0b45ce80d8e4a95"
-
 dest_files=[ "res://.import/font.png-b7f488907eab9f282cd8fcf4e14c17c0.stex" ]
-dest_md5="ad2c83dcd309a7c804583aad0123a490"
 
 [params]
 
