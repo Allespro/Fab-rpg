@@ -5,9 +5,7 @@
 [ext_resource path="res://player/player2_area.gd" type="Script" id=3]
 
 [sub_resource type="Animation" id=1]
-
 resource_name = "idledown"
-length = 1.0
 loop = true
 step = 0.5
 tracks/0/type = "value"
@@ -24,9 +22,7 @@ tracks/0/keys = {
 }
 
 [sub_resource type="Animation" id=2]
-
 resource_name = "idleleft"
-length = 1.0
 loop = true
 step = 0.5
 tracks/0/type = "value"
@@ -43,9 +39,7 @@ tracks/0/keys = {
 }
 
 [sub_resource type="Animation" id=3]
-
 resource_name = "idleright"
-length = 1.0
 loop = true
 step = 0.5
 tracks/0/type = "value"
@@ -62,9 +56,7 @@ tracks/0/keys = {
 }
 
 [sub_resource type="Animation" id=4]
-
 resource_name = "idleup"
-length = 1.0
 loop = true
 step = 0.5
 tracks/0/type = "value"
@@ -81,9 +73,7 @@ tracks/0/keys = {
 }
 
 [sub_resource type="Animation" id=5]
-
 resource_name = "pushdown"
-length = 1.0
 loop = true
 step = 0.5
 tracks/0/type = "value"
@@ -100,9 +90,7 @@ tracks/0/keys = {
 }
 
 [sub_resource type="Animation" id=6]
-
 resource_name = "pushleft"
-length = 1.0
 loop = true
 step = 0.5
 tracks/0/type = "value"
@@ -119,9 +107,7 @@ tracks/0/keys = {
 }
 
 [sub_resource type="Animation" id=7]
-
 resource_name = "pushright"
-length = 1.0
 loop = true
 step = 0.5
 tracks/0/type = "value"
@@ -138,9 +124,7 @@ tracks/0/keys = {
 }
 
 [sub_resource type="Animation" id=8]
-
 resource_name = "pushup"
-length = 1.0
 loop = true
 step = 0.5
 tracks/0/type = "value"
@@ -157,9 +141,7 @@ tracks/0/keys = {
 }
 
 [sub_resource type="Animation" id=9]
-
 resource_name = "walkdown"
-length = 1.0
 loop = true
 step = 0.5
 tracks/0/type = "value"
@@ -176,9 +158,7 @@ tracks/0/keys = {
 }
 
 [sub_resource type="Animation" id=10]
-
 resource_name = "walkleft"
-length = 1.0
 loop = true
 step = 0.5
 tracks/0/type = "value"
@@ -195,9 +175,7 @@ tracks/0/keys = {
 }
 
 [sub_resource type="Animation" id=11]
-
 resource_name = "walkright"
-length = 1.0
 loop = true
 step = 0.5
 tracks/0/type = "value"
@@ -214,9 +192,7 @@ tracks/0/keys = {
 }
 
 [sub_resource type="Animation" id=12]
-
 resource_name = "walkup"
-length = 1.0
 loop = true
 step = 0.5
 tracks/0/type = "value"
@@ -233,24 +209,12 @@ tracks/0/keys = {
 }
 
 [sub_resource type="RectangleShape2D" id=13]
-
-custom_solver_bias = 0.0
 extents = Vector2( 5.94487, 7.99627 )
 
 [node name="KinematicPlayer" type="KinematicBody2D"]
-
-input_pickable = false
-collision_layer = 1
-collision_mask = 1
-collision/safe_margin = 0.08
 script = ExtResource( 1 )
 
-[node name="anim" type="AnimationPlayer" parent="." index="0"]
-
-root_node = NodePath("..")
-autoplay = ""
-playback_process_mode = 1
-playback_default_blend_time = 0.0
+[node name="anim" type="AnimationPlayer" parent="."]
 playback_speed = 4.0
 anims/idledown = SubResource( 1 )
 anims/idleleft = SubResource( 2 )
@@ -264,67 +228,27 @@ anims/walkdown = SubResource( 9 )
 anims/walkleft = SubResource( 10 )
 anims/walkright = SubResource( 11 )
 anims/walkup = SubResource( 12 )
-blend_times = [  ]
-_sections_unfolded = [ "Playback Options" ]
 
-[node name="Sprite" type="Sprite" parent="." index="1"]
-
+[node name="Sprite" type="Sprite" parent="."]
 texture = ExtResource( 2 )
 vframes = 2
 hframes = 8
 frame = 12
-_sections_unfolded = [ "Animation" ]
 
-[node name="CollisionShape2D" type="CollisionShape2D" parent="." index="2"]
-
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
 shape = SubResource( 13 )
-_sections_unfolded = [ "Transform" ]
 
-[node name="Camera2D" type="Camera2D" parent="." index="3"]
-
+[node name="Camera2D" type="Camera2D" parent="."]
 visible = false
-anchor_mode = 1
-rotating = false
-current = false
 zoom = Vector2( 0.6, 0.6 )
-limit_left = -10000000
-limit_top = -10000000
-limit_right = 10000000
-limit_bottom = 10000000
-limit_smoothed = false
-drag_margin_h_enabled = true
-drag_margin_v_enabled = true
 smoothing_enabled = true
-smoothing_speed = 5.0
-offset_v = 0.0
-offset_h = 0.0
-drag_margin_left = 0.2
-drag_margin_top = 0.2
-drag_margin_right = 0.2
-drag_margin_bottom = 0.2
-editor_draw_screen = true
-editor_draw_limits = false
-editor_draw_drag_margin = false
-_sections_unfolded = [ "Smoothing" ]
 
-[node name="player2_area" type="Area2D" parent="." index="4" groups=[
+[node name="player2_area" type="Area2D" parent="." groups=[
 "player",
 ]]
-
-input_pickable = true
-gravity_vec = Vector2( 0, 1 )
-gravity = 98.0
-linear_damp = 0.1
-angular_damp = 1.0
-audio_bus_override = false
-audio_bus_name = "Master"
 script = ExtResource( 3 )
 
-[node name="CollisionShape2D2" type="CollisionShape2D" parent="player2_area" index="0"]
-
+[node name="CollisionShape2D2" type="CollisionShape2D" parent="player2_area"]
 shape = SubResource( 13 )
-_sections_unfolded = [ "Transform" ]
 
 [connection signal="area_entered" from="player2_area" to="player2_area" method="_on_player2_area_area_entered"]
-
-

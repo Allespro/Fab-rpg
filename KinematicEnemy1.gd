@@ -14,5 +14,5 @@ func _physics_process(delta):
 		for tinge in body:
 			if(tinge.is_in_group("player")):
 				print('kek')
-				if(tinge.global_position().x < self.global_position().x):
-					print('good')
+				#if(tinge.global_position().x < self.global_position().x):
+				#	print('good')
